@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SourceModRo/SourceModRo">
-    <img src="./banner.png" alt="Guia Extenso de Programaçãohttps://github.com/arthurspk/guiadevbrasil" >
+    <img src="./banner.png" alt="Sourcemod România" >
   </a>
   <h1 align="center">ROMÂNIA</h1>
 </p>
