@@ -2,7 +2,7 @@
   <a href="https://github.com/SourceModRo/SourceModRo">
     <img src="./banner.png" alt="Guia Extenso de Programaçãohttps://github.com/arthurspk/guiadevbrasil" >
   </a>
-  <h1 align="center">Guia Extenso de Programação</h1>
+  <h1 align="center">ROMÂNIA</h1>
 </p>
 
 ## :dart: O guia para alavancar a sua carreira
