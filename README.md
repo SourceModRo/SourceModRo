@@ -2,7 +2,6 @@
   <a href="https://github.com/SourceModRo/SourceModRo">
     <img src="./bannersm.png" alt="Sourcemod România" >
   </a>
-  <h1 align="center">ROMÂNIA</h1>
 </p>
 
 ## ⚠️ Despre SourceMod România
