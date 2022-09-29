@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SourceModRo/SourceModRo">
-    <img src="./bannersm.png" alt="Sourcemod România" >
+    <img src="./banner.png" alt="Sourcemod România" >
   </a>
 </p>
 
